@@ -17,6 +17,7 @@ word = "candace"
 
 word_list = ['c','a','n','d','a','c','e']
 
+print('hello')
 print ("c")
 print ("a")
 print ("n")
