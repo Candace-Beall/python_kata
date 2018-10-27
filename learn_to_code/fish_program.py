@@ -16,5 +16,8 @@ while True:
         is_moving = True
         print('I got a bite')
         hook_fish()
+    elif response == 'maybe':
+        print("Whatcha gonna do with that big fat butt...")
+        break
     else:
         wait()

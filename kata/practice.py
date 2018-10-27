@@ -1,13 +1,3 @@
-"""
-HINTS:
-for <variable> in <collection>:
-    pass
-
-if value == other_value:
-    pass
-
-"""
-
 # output to the console hello world
 
 
