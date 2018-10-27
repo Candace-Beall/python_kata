@@ -15,4 +15,3 @@ if value == other_value:
 
 
 # create a find letter program
-

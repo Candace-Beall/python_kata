@@ -1,4 +1,4 @@
-search_value= "r"
+search_value = "r"
 
 # for <variable> in <collection>:
 for letter in "trunk":
