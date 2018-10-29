@@ -1,5 +1,6 @@
 import random
 
+print(__name__)
 customers = ['Aubrey', 'Kaiden', 'Jordan', 'Epik']
 
 winner = random.choice(customers)
