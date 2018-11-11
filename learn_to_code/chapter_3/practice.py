@@ -85,5 +85,13 @@ print('You chose', user_choice, 'and the computer chose', computer_choice)
 
 if computer_choice == user_choice:
     winner = 'Tie'
+elif computer_choice == 'rock' and user_choice == 'scissors':
+    winner = 'computer'
+elif computer_choice == 'paper' and user_choice == 'rock':
+    winner = 'computer'
+elif computer_choice == 'scissors' and user_choice == 'paper':
+    winner = 'computer'
+else:
+    winner = 'user'
 
 print(f'The winner is {winner}')
