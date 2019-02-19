@@ -22,7 +22,7 @@ Example:
 ## Create a new python package
 
 - Right click on the module (folder name)
-- Select "New -> Python Package"
+- Select "New -> Python Packaxge"
 - Name the folder
 - Add a file to the folder and run it
 
